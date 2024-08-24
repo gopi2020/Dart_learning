@@ -10,7 +10,8 @@ void main(){
   // 4)List ->List<datatype>=[];
   // 5)Maps ->Map{<keytype, valuetype>};
   //6)set->Set<datatype>={};
-  //7)Null-> null ?
+  //7)Records -> var record = (collletions);
+  //8)Null-> null ?
 
 
   //Number
@@ -45,6 +46,9 @@ void main(){
 "name":"gopi",
 "age":25,};
 print(college);
+//record
+ var record = ('first', a: 2, b: true, 'last',[1,34,6],true,2.4,null,{1,2,4,5,6,4});
+  print(record);
 //Null
 var a=null;
 int? b;
