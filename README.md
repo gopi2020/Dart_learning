@@ -1,0 +1,8 @@
+Dart Introduction, Dart syntax, Dart Variables – implicit variable, explicit variable, var, Dynamic, Late, Multiple initialisation variables. Identifiers in dart, keywords in dart, Literals in dart, Data types in dart - num , int, double, String, bool, List , Map, Set,record, null. Dart const and final, string interpolation – {}, Dart typecasting and runtime type, Dart comment’s, Dart Output and Input.
+
+Dart Operators - Arithmetic operator, Relational operator, Logical operator, Type test operator, Assignment operator, Increment & decrement operator, bitwise operator, ternary operator, null operator. Dart control statement – if statement, if else statement, else if ladder statement, nested if (if – else- if) statement, switch case statement. Dart Loops – while, do-while, for, for–in, for each, break, continue, label.
+
+Dart collections – list (array), maps, set. Data type data - Properties and methods: String, number, List, Map, math, set. Dart Function – basic Function types: 1) No arguments and No return type. 2) With arguments and No return type. 3) No arguments. And Return type.4) with arguments and with return type. Passing value, and optional parameter, Named parameter, Anonymous function and Return value.  Exception Handing, File Handing, Dart Async & Await, Dart Assert, Null Safety.
+
+
+Dart Advanced (oops) – Classes, objects, constructor, this keyword, Instances (variables, Methods), private field(-) ,Dart Getter and Setter, Dart Inheritance, super key, Overriding method(Polymorphism), Dart Static (variables, Methods), abstract class, mixum, Interface s(implement), enum.
